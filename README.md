@@ -70,7 +70,7 @@ MONGODB_URI=mongodb://localhost:27017/notes-app
 For development with hot reload:
 
 ```bash
-npm run dev
+npm run start:dev
 ```
 
 For production build:
